@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fontbox-2.0.26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Complementos para apachePdfbox/fontbox-2.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
